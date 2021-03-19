@@ -3,6 +3,9 @@
     <div>
       {{ users }}
     </div>
+    <dir>
+      {{ users[0].id }}, {{ users[0].name }}
+    </dir>
   </section>
 </template>
 

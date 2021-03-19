@@ -9,5 +9,7 @@
     <router-link to=/card>Card Page</router-link>
     <hr>
     <router-link to=/axios>Axios Page</router-link>
+    <hr>
+    <router-link to=/vuex>Vuex Page</router-link>
   </section>
 </template>

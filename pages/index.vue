@@ -11,5 +11,7 @@
     <router-link to=/axios>Axios Page</router-link>
     <hr>
     <router-link to=/vuex>Vuex Page</router-link>
+    <hr>
+    <router-link to=/counter>Counter Page</router-link>
   </section>
 </template>

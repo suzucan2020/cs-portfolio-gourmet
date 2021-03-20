@@ -2,16 +2,16 @@
   <section class="container">
     <h1>Routing Page</h1>
     <hr>
-    <router-link to="/">Top Page</router-link>
+    <NuxtLink to="/">Top Page</NuxtLink>
     <hr>
-    <router-link to=/carousels>Carousels Page</router-link>
+    <NuxtLink to=/carousels>Carousels Page</NuxtLink>
     <hr>
-    <router-link to=/card>Card Page</router-link>
+    <NuxtLink to=/card>Card Page</NuxtLink>
     <hr>
-    <router-link to=/axios>Axios Page</router-link>
+    <NuxtLink to=/axios>Axios Page</NuxtLink>
     <hr>
-    <router-link to=/vuex>Vuex Page</router-link>
+    <NuxtLink to=/vuex>Vuex Page</NuxtLink>
     <hr>
-    <router-link to=/counter>Counter Page</router-link>
+    <NuxtLink to=/counter>Counter Page</NuxtLink>
   </section>
 </template>

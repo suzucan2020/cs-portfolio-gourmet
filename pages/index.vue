@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-    <h1>Routing Page</h1>
+    <h1>Link</h1>
     <hr>
     <NuxtLink to="/">Top Page</NuxtLink>
     <hr>
@@ -15,3 +15,10 @@
     <NuxtLink to=/counter>Counter Page</NuxtLink>
   </section>
 </template>
+
+
+<script>
+  export default {
+    layout: 'top'
+  }
+</script>

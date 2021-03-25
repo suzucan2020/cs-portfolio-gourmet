@@ -19,6 +19,5 @@
 
 <script>
   export default {
-    layout: 'top'
   }
 </script>

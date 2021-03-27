@@ -25,10 +25,10 @@
       :key="i"
       :src="https://picsum.photos/1920/1080?random"
     >
-      <v-sheet
-        :color="colors[i]"
-        height="100%"
-      >
+      <!-- <v-sheet -->
+      <!--   :color="colors[i]" -->
+      <!--   height="100%" -->
+      <!-- > -->
         <v-row
           class="fill-height"
           align="center"
@@ -38,7 +38,7 @@
             {{ slide }} Slide
           </div>
         </v-row>
-      </v-sheet>
+      <!-- </v-sheet> -->
     </v-carousel-item>
   </v-carousel>
 </template>

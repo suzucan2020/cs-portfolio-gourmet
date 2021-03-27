@@ -41,9 +41,7 @@
       class="overflow-y-auto"
       max-height="600"
     >
-    <v-main>
-    <v-container style="height: 1500px;"><nuxt /></v-container>
-    </v-main>
+    <v-container style="height: 1500px;"></v-container>
     </v-sheet>
   </v-card>
 </template>

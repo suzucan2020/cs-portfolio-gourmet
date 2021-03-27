@@ -5,23 +5,24 @@
       dense
       dark
     >
-      <v-app-bar-nav-icon></v-app-bar-nav-icon>
+      <v-app-bar-nav-icon class="black--text"></v-app-bar-nav-icon>
 
-      <v-toolbar-title>Page title</v-toolbar-title>
+      <v-toolbar-title class="black--text">Page title</v-toolbar-title>
 
       <v-spacer></v-spacer>
 
-      <v-btn icon>
+      <v-btn icon color="black">
         <v-icon>mdi-heart</v-icon>
       </v-btn>
 
-      <v-btn icon>
+      <v-btn icon color="black">
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
 
       <v-menu
         left
         bottom
+        class="black--text"
       >
         <template v-slot:activator="{ on, attrs }">
           <v-btn

@@ -2,7 +2,7 @@
   <v-carousel
     cycle
     interval="3000"
-    hide-delimiter
+    hide-delimiters
     show-arrows-on-hover
   >
     <v-carousel-item

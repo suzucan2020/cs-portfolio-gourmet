@@ -23,6 +23,7 @@
     <v-carousel-item
       v-for="(slide, i) in slides"
       :key="i"
+      :src="https://picsum.photos/1920/1080?random"
     >
       <v-sheet
         :color="colors[i]"

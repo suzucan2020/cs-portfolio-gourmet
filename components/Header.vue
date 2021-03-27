@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-app-bar
-      color="deep-purple accent-4"
+      color="green lighten-4"
       dense
       dark
     >

@@ -3,12 +3,14 @@
     <h1>Link</h1>
     <hr>
     <NuxtLink to="/">Top Page</NuxtLink>
-    <hr>
-    <NuxtLink to=/carousels>Carousels Page</NuxtLink>
+    <h1>Vuetify UI component</h1>
     <hr>
     <NuxtLink to=/carousels000>Carousels 000 Page</NuxtLink>
     <hr>
+    <NuxtLink to=/carousels001>Carousels 001 Page</NuxtLink>
+    <hr>
     <NuxtLink to=/card>Card Page</NuxtLink>
+    <h1>Nuxt Practice</h1>
     <hr>
     <NuxtLink to=/axios>Axios Page</NuxtLink>
     <hr>

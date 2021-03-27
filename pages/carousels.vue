@@ -2,6 +2,8 @@
   <v-carousel
     cycle
     interval="3000"
+    hide-delimiter
+    show-arrows-on-hover
   >
     <v-carousel-item
       v-for="(item,i) in items"

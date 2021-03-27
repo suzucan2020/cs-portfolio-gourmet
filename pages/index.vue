@@ -6,6 +6,8 @@
     <hr>
     <NuxtLink to=/carousels>Carousels Page</NuxtLink>
     <hr>
+    <NuxtLink to=/carousels000>Carousels 000 Page</NuxtLink>
+    <hr>
     <NuxtLink to=/card>Card Page</NuxtLink>
     <hr>
     <NuxtLink to=/axios>Axios Page</NuxtLink>

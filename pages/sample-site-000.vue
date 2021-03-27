@@ -12,9 +12,7 @@
       transition="fade-transition"
     ></v-carousel-item>
   </v-carousel>
-</template>
 
-<template>
   <v-card
     class="mx-auto"
     max-width="344"

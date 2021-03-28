@@ -1,5 +1,7 @@
 <template>
-  <div>
+  <v-container>
+
+  <v-layout row wrap>
   <v-carousel
     cycle
     interval="5000"
@@ -13,8 +15,9 @@
       transition="fade-transition"
     ></v-carousel-item>
   </v-carousel>
+  </v-layout>
 
-  <div>
+  <v-layout row wrap>
   <v-card
     class="mx-auto"
     max-width="344"
@@ -60,8 +63,9 @@
       </div>
     </v-expand-transition>
   </v-card>
-  </div>
-  </div>
+  </v-layout>
+
+  </v-container>
 </template>
 
 

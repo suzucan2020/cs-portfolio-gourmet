@@ -13,7 +13,7 @@
         <v-list-item
           v-for="(item, i) in items"
           :key="i"
-          to="/sample-sit-000"
+          to="item.link"
           nuxt
         >
           <v-list-item-icon>
@@ -33,11 +33,8 @@
     data: () => ({
       selectedItem: 1,
       items: [
-        { text: 'Real-Time', icon: 'mdi-clock' },
-        { text: 'Audience', icon: 'mdi-account' },
-        { text: 'Conversions', icon: 'mdi-flag' },
-        { text: 'Sample Site 000', icon: 'mdi-cursor-default-click-outline' },
-        { text: 'Sample Site 001', icon: 'mdi-cursor-default-click-outline' },
+        { text: 'Sample Site 000', icon: 'mdi-cursor-default-click-outline', link: '/sample-site-000' },
+        { text: 'Sample Site 001', icon: 'mdi-cursor-default-click-outline', link: '/sample-site-001' },
       ],
     }),
   }

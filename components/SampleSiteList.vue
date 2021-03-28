@@ -13,7 +13,7 @@
         <v-list-item
           v-for="(item, i) in items"
           :key="i"
-          to="item.link"
+          :to="item.link"
           nuxt
         >
           <v-list-item-icon>

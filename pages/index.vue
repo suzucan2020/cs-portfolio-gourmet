@@ -21,7 +21,7 @@
 
   <v-container fluid>
     <v-row justify="center">
-      <v-subheader>Today</v-subheader>
+      <v-subheader>Our Team</v-subheader>
 
       <v-expansion-panels popout>
         <v-expansion-panel

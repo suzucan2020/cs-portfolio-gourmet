@@ -133,7 +133,7 @@
         <SampleSiteList />
       </v-flex>
       <v-flex>
-        <SampleSiteList />
+        <VuetifyUIComponent />
       </v-flex>
       <v-flex>
         <SampleSiteList />
@@ -145,9 +145,11 @@
 
 <script>
   import SampleSiteList from "@/components/SampleSiteList.vue";
+  import VuetifyUIComponent from "@/components/VuetifyUIComponent.vue";
   export default {
     components: {
-      SampleSiteList
+      SampleSiteList,
+      VuetifyUIComponent
     },
     data () {
       return {

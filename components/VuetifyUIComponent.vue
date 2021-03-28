@@ -5,7 +5,7 @@
     tile
   >
     <v-list dense>
-      <v-subheader>Sample Site</v-subheader>
+      <v-subheader>Vuetify UI Component</v-subheader>
       <v-list-item-group
         v-model="selectedItem"
         color="primary"
@@ -33,8 +33,9 @@
     data: () => ({
       selectedItem: 1,
       items: [
-        { text: 'Sample Site 000', icon: 'mdi-cursor-default-click-outline', link: '/sample-site-000' },
-        { text: 'Sample Site 001', icon: 'mdi-cursor-default-click-outline', link: '/sample-site-001' },
+        { text: 'Carousels Page 000', icon: 'mdi-cursor-default-click-outline', link: '/carousels000' },
+        { text: 'Carousels Page 001', icon: 'mdi-cursor-default-click-outline', link: '/carousels001' },
+        { text: 'Card Page', icon: 'mdi-cursor-default-click-outline', link: '/card' },
       ],
     }),
   }

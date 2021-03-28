@@ -108,9 +108,9 @@
  
     </v-layout>
 
-    <v-layout row wrap>
-      <v-subheader>Demo !</v-subheader>
-    </v-layout>
+    <v-row justify="center">
+      <v-subheader>Demonstration !</v-subheader>
+    </v-row>
 
     <v-layout row wrap>
       <v-flex>

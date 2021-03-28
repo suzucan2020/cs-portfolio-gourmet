@@ -13,7 +13,8 @@
         <v-list-item
           v-for="(item, i) in items"
           :key="i"
-          :nuxt="/sample-sit-000"
+          to="/sample-sit-000"
+          nuxt
         >
           <v-list-item-icon>
             <v-icon v-text="item.icon"></v-icon>

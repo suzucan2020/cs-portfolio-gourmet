@@ -182,7 +182,7 @@
           exceprt: 'New deals available, Join Today',
         },
       ],
-      lorem: 'AWS, Kubernetes, terraform, Chalice, Python, Flask, Django, C, C++, Nuxt, Vuetify, Github Actions',
+      lorem: 'AWS, Kubernetes, Docker, Terraform, Chalice, Python, Flask, Django, C, C++, Nuxt, Vuetify, Github Actions',
       }
     },
   }

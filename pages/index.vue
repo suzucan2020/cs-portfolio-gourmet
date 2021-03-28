@@ -129,7 +129,15 @@
     <NuxtLink to=/counter>Counter Page</NuxtLink>
     </v-layout>
     <v-layout row wrap>
-    <SampleSiteList />
+      <v-flex>
+        <SampleSiteList />
+      </v-flex>
+      <v-flex>
+        <SampleSiteList />
+      </v-flex>
+      <v-flex>
+        <SampleSiteList />
+      </v-flex>
     </v-layout>
   </v-container>
 

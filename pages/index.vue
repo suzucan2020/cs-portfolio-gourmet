@@ -107,27 +107,7 @@
   </v-container>
  
     </v-layout>
-    <v-layout row wrap>
-    <h1>Sample Site</h1><br>
-    <hr>
-    <NuxtLink to="/sample-site-000">Sample Site 000</NuxtLink><br>
-    <hr>
-    <NuxtLink to="/sample-site-001">Sample Site 001</NuxtLink><br>
-    <h1>Vuetify UI component</h1>
-    <hr>
-    <NuxtLink to=/carousels000>Carousels 000 Page</NuxtLink><br>
-    <hr>
-    <NuxtLink to=/carousels001>Carousels 001 Page</NuxtLink>
-    <hr>
-    <NuxtLink to=/card>Card Page</NuxtLink>
-    <h1>Nuxt Practice</h1>
-    <hr>
-    <NuxtLink to=/axios>Axios Page</NuxtLink>
-    <hr>
-    <NuxtLink to=/vuex>Vuex Page</NuxtLink>
-    <hr>
-    <NuxtLink to=/counter>Counter Page</NuxtLink>
-    </v-layout>
+
     <v-layout row wrap>
       <v-flex>
         <SampleSiteList />
@@ -139,6 +119,7 @@
         <NuxtPracticeList />
       </v-flex>
     </v-layout>
+
   </v-container>
 
 </template>

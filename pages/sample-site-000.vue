@@ -2,7 +2,7 @@
   <div>
   <v-carousel
     cycle
-    interval="3000"
+    interval="5000"
     show-arrows-on-hover
   >
     <v-carousel-item

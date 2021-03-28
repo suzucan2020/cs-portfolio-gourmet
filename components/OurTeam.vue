@@ -94,8 +94,8 @@
         {
           avatar: 'https://picsum.photos/1920/1080?random=1',
           name: 'suzucan2020',
-          title: 'Our Skill',
-          excerpt: 'Thank you for joining our community...',
+          title: 'Engineer',
+          excerpt: 'Skill ...',
         },
         {
           color: 'red',

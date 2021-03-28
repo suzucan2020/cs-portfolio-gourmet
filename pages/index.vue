@@ -1,7 +1,8 @@
 <template>
+
   <v-container>
 
-    <v-layout row wrap>
+    <v-row>
       <v-carousel
         cycle
         interval="5000"
@@ -15,7 +16,7 @@
           transition="fade-transition"
         ></v-carousel-item>
       </v-carousel>
-    </v-layout>
+    </v-row>
 
     <v-row>
       <OurTeam />

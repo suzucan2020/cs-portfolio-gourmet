@@ -110,6 +110,9 @@
 
     <v-layout row wrap>
       <v-subheader>Demo !</v-subheader>
+    </v-layout>
+
+    <v-layout row wrap>
       <v-flex>
         <SampleSiteList />
       </v-flex>

@@ -133,10 +133,10 @@
         <SampleSiteList />
       </v-flex>
       <v-flex>
-        <VuetifyUIComponent />
+        <VuetifyUIComponentList />
       </v-flex>
       <v-flex>
-        <SampleSiteList />
+        <NuxtPracticeList />
       </v-flex>
     </v-layout>
   </v-container>
@@ -145,11 +145,13 @@
 
 <script>
   import SampleSiteList from "@/components/SampleSiteList.vue";
-  import VuetifyUIComponent from "@/components/VuetifyUIComponent.vue";
+  import VuetifyUIComponentList from "@/components/VuetifyUIComponentList.vue";
+  import NuxtPracticeList from "@/components/NuxtPracticeList.vue";
   export default {
     components: {
       SampleSiteList,
-      VuetifyUIComponent
+      VuetifyUIComponentList,
+      NuxtPracticeList
     },
     data () {
       return {

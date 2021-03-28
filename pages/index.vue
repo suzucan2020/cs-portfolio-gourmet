@@ -5,6 +5,8 @@
     <NuxtLink to="/">Top Page</NuxtLink>
     <hr>
     <NuxtLink to="/sample-site-000">Sample Site 000</NuxtLink>
+    <hr>
+    <NuxtLink to="/sample-site-001">Sample Site 001</NuxtLink>
     <h1>Vuetify UI component</h1>
     <hr>
     <NuxtLink to=/carousels000>Carousels 000 Page</NuxtLink>
@@ -27,3 +29,4 @@
   export default {
   }
 </script>
+sample-site-001.vue

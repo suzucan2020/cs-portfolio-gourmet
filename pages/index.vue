@@ -39,7 +39,7 @@
     </v-row>
 
     <v-row>
-      <Roller text="This is ..." transition="1" />
+      <Roller text="Thisis..." transition="1" />
     </v-row>
 
   </v-container>

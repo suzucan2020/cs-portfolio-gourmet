@@ -182,7 +182,7 @@
           exceprt: 'New deals available, Join Today',
         },
       ],
-      lorem: 'Lorem ipsum dolor sit amet, at aliquam vivendum vel, everti delicatissimi cu eos. Dico iuvaret debitis mel an, et cum zril menandri. Eum in consul legimus accusam. Ea dico abhorreant duo, quo illum minimum incorrupte no, nostro voluptaria sea eu. Suas eligendi ius at, at nemore equidem est. Sed in error hendrerit, in consul constituam cum.',
+      lorem: 'AWS, Chalice, Python, Flask, Django, C, C++, Nuxt, Vuetify, Github Actions',
       }
     },
   }

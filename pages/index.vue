@@ -128,12 +128,19 @@
     <hr>
     <NuxtLink to=/counter>Counter Page</NuxtLink>
     </v-layout>
+    <v-layout row wrap>
+    <SampleSiteList />
+    </v-layout>
   </v-container>
 
 </template>
 
 <script>
+  import SampleSiteList from "@/components/SampleSiteList.vue";
   export default {
+    components: {
+      SampleSiteList
+    },
     data () {
       return {
         items: [

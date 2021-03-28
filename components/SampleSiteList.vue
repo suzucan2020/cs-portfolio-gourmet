@@ -34,8 +34,8 @@
         { text: 'Real-Time', icon: 'mdi-clock' },
         { text: 'Audience', icon: 'mdi-account' },
         { text: 'Conversions', icon: 'mdi-flag' },
-        { text: 'Sample Site 000', icon: 'mdi-clock' },
-        { text: 'Sample Site 001', icon: 'mdi-account' },
+        { text: 'Sample Site 000', icon: 'mdi-cursor-default-click-outline' },
+        { text: 'Sample Site 001', icon: 'mdi-cursor-default-click-outline' },
       ],
     }),
   }

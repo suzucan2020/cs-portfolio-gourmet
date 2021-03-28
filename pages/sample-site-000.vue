@@ -13,7 +13,6 @@
       transition="fade-transition"
     ></v-carousel-item>
   </v-carousel>
-  </div>
 
   <div>
   <v-card
@@ -61,6 +60,7 @@
       </div>
     </v-expand-transition>
   </v-card>
+  </div>
   </div>
 </template>
 

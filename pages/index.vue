@@ -38,6 +38,10 @@
       </v-col>
     </v-row>
 
+    <v-row>
+      <Roller text="1234" transition="1" />
+    </v-row>
+
   </v-container>
 
 </template>

@@ -159,8 +159,8 @@
         ],
       messages: [
         {
-          avatar: 'https://avatars0.githubusercontent.com/u/9064066?v=4&s=460',
-          name: 'John Leider',
+          avatar: 'https://picsum.photos/1920/1080?random=6',
+          name: 'suzucan2020',
           title: 'Welcome to Vuetify!',
           excerpt: 'Thank you for joining our community...',
         },

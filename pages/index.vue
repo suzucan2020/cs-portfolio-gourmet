@@ -39,7 +39,7 @@
     </v-row>
 
     <v-row>
-      <Roller text="This is ..." :charList="['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']" transition="2" />
+      <Roller text="This is ..." :charList="['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']" :transition="2" />
     </v-row>
 
   </v-container>
